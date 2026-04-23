@@ -26,4 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Referencias y Bibliografía
 
+---
+
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
