@@ -1,10 +1,14 @@
 # Del dato a la experiencia: hibridación y mediación en el espacio - *Manovich Reloaded*
 
-#### Aitor Fernández  
+#### Aitor Fernández
 #### 20.644 - Cultura Digital - RETO-ACTIVIDAD 3
 #### Mayo 2026
 
 ## Hacia lo desconocido
+
+Me invitaron a experimentar la sensación de ingravidez y terminé vomitando. Leo sobre relatividad general y, cuando descubro que el tiempo puede deformarse, mi mente se desconecta. Entonces, ¿por qué persiste la fascinación por aquello que no logramos comprender?
+
+No solo para entender, sino para experimentar lo desconocido de otras formas. Sí, como planteaba Einstein, el espacio-tiempo no es rígido ni fijo, sino dinámico, pero al mismo tiempo *en el espacio nadie puede oír tus gritos* (Alien, 1979), sonificar el universo no es reproducirlo: es construir un medio nuevo para percibirlo.
 
 ## Escuchando lo que no puede oírse
 
