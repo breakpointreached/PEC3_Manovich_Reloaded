@@ -34,15 +34,48 @@ Si dos equipos distintos sonifican el mismo agujero negro, ¿estamos escuchando 
 
 ## Vamos calentando motores
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+*That's one small step for man, one giant leap for mankind.* La frase de Armstrong quedó como símbolo de una época, pero también, tristemente, como cierre de los programas que la NASA abandonó tras la Guerra Fría. Durante años, los lanzamientos espaciales dejaron de sentirse como algo vivo, reducidos a eventos técnicos o retransmisiones planas sin mediación cultural.
 
 ![Starship vuelo 5](startship-telemetry.jpg)
 
 *Figura 3. Retransmisión del vuelo 5 de Starship con visualización de telemetría en tiempo real. Fuente: SpaceX.*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Desde mi experiencia siguiendo webcasts de eventos tecnológicos y lanzamientos espaciales, lo que busco cuando veo un lanzamiento de Starship no es solo observar un cohete, sino cómo ese lanzamiento se construye en pantalla. El foco está en el *webcast* oficial de SpaceX, emitido en directo a través de su canal de YouTube, con millones de espectadores simultáneos en cada prueba de vuelo. No es una retransmisión convencional, sino una interfaz compleja en la que distintas capas confluyen en tiempo real; el *webcast* se convierte así en la forma de experimentar el lanzamiento.
+
+Busco sentir el lanzamiento: la tensión, la incertidumbre, la posibilidad de fallo. Y es precisamente ahí donde aparece algo distinto. Al igual que en la sonificación, no se trata de acceder al fenómeno de forma directa, sino de cómo el software transforma los datos en experiencia y decide cómo se presenta.
+
+Aunque el lanzamiento de Starship debería ser el protagonista, acaba pasando a segundo plano, como cuando un actor secundario eclipsa al principal. La atención se desplaza hacia otros elementos: los números en pantalla, la interfaz —altitud, velocidad, presión, esquemas del vehículo, indicadores dinámicos— y los datos de telemetría en tiempo real. A esto se suman otras capas: las cámaras *onboard*, los comentaristas técnicos, la gente en la sala de control, las comunicaciones de *CAPCOM*, el público en las zonas de observación y también los chats en directo. Lo que antes era relleno se ha convertido en el propio medio.
+
+Todo eso construye el verdadero centro de la experiencia. Es un ejemplo claro de lo que plantea Manovich (2008): no es que convivan varios medios, es que se fusionan hasta crear algo que ninguno podría generar por sí solo. El *webcast* de SpaceX no es televisión, ni videojuego, ni telemetría técnica: es un híbrido que solo existe porque el software permite ensamblar todas esas capas en tiempo real. Los datos, la narrativa, el *streaming* y el público no están uno al lado del otro. Son el mismo medio.
+
+He mencionado algunos datos, pero merece la pena detenerse en ellos: cómo dejan de ser invisibles para convertirse en una capa cultural que estructura la forma en que son percibidos. Lo que en otros contextos sería información compleja o técnica aquí resulta familiar. El software ha hecho visible lo invisible.
+
+Estos datos, convertidos en elementos visuales —altitud, velocidad, presión—, funcionan como un *Heads-Up Display* (HUD) que completa la experiencia. Como desarrollador de software, reconozco en esta capa un patrón familiar: no son solo información, son interfaz: una capa que organiza cómo el espectador accede a los datos y los convierte en experiencia. Pero, a diferencia de otros HUDs, este no representa una simulación, representa algo que está ocurriendo de verdad.
+
+[Ver vídeo: Starship pierde el control durante el vuelo de prueba (YouTube)](https://www.youtube.com/watch?v=OvGdjzbTl1k&t=45s)
+
+*Figura 4. Starship pierde el control durante su octavo vuelo de prueba, entrando en rotación y perdiendo contacto tras la separación del booster. Fuente: YouTube.*
+
+La hibridación que introduce este HUD no es decorativa: fusiona el lenguaje visual de los videojuegos con datos de ingeniería real. En un videojuego, el HUD forma parte de una simulación; sabemos que lo que vemos no es real. Aquí ocurre lo contrario: el HUD representa un sistema físico en funcionamiento. Una pérdida de señal o una altitud inconsistente con lo esperado no son elementos visuales, sino indicios de que algo puede estar fallando.
+
+Esa condición transforma la experiencia. El espectador no solo observa, sino que interpreta señales en tiempo real, como si leyera el estado de un sistema vivo. Esa experiencia se completa con la retransmisión en *streaming* y el chat en directo, donde miles de personas participan simultáneamente. La experiencia deja de ser individual: se convierte en algo que se vive con una comunidad que comparte la misma fascinación.
+
+*It's not rocket science* deja de tener sentido aquí. Tanto en la sonificación como en la retransmisión de Starship, el mecanismo de hibridación es el mismo: el software fusiona lenguajes que antes existían por separado —la medición científica y el sonido, la telemetría y el videojuego— generando experiencias que ninguno de esos lenguajes podría producir por sí solo (Manovich, 2008). En ambos casos, no accedemos directamente al fenómeno, sino a través de capas que lo hacen perceptible y, al hacerlo, lo reconfiguran. No es necesario entenderlo todo para experimentarlo. Quizá ahí reside el verdadero *giant leap for mankind*: no en el acceso al conocimiento en sí, sino en la forma en que el software construye nuestra experiencia de lo desconocido.
 
 ### Referencias y Bibliografía
+
+- Arcand, K., Russo, M., y Santaguida, A. (2020). *Data sonification: A new cosmic triad of sound*. NASA.
+  https://www.nasa.gov/universe/data-sonification-a-new-cosmic-triad-of-sound/
+
+- Arcand, K. (2025, 20 de agosto). Turning space data into sound [episodio de podcast]. En A. Almeida (presentador), *Small Steps, Giant Leaps* (ep. 160). NASA.
+  https://www.nasa.gov/podcasts/small-steps-giant-leaps/small-steps-giant-leaps-episode-160-turning-space-data-into-sound/
+
+- Ballora, M. (2017). *Meet the scientist who turns data into music*.
+  https://www.science.org/content/article/meet-scientist-who-turns-data-music-and-listen-sound-neutron-star
+
+- Hawking, S. (1988/2010). *Historia del tiempo*. Editorial Crítica.
+
+- Manovich, L. (2013). *El software toma el mando*. UOC Press.
 
 ---
 
